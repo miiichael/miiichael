@@ -1,4 +1,6 @@
-👋 Linux sysadmin by day, Minecraft sysadmin/player by night.
+👋 Linux sysadmin by day, Minecraft sysadmin/player by night, and amateur photographer at pretty much any time of day or night.
+
+![sunset 14-feb-2006](https://raw.githubusercontent.com/miiichael/miiichael/main/3995-3999-mercator.jpg)
 
 <!---
 miiichael/miiichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
