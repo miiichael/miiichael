@@ -1,4 +1,4 @@
-👋 Linux sysadmin by day, Minecraft sysadmin/player by night, and amateur photographer at pretty much any time of day or night.
+👋 IT nerd by day, Minecraft sysadmin/player by night, and unprofessional photographer at all times. Frequent bug reporter.
 
 ![sunset 14-feb-2006](https://raw.githubusercontent.com/miiichael/miiichael/main/3995-3999-mercator.jpg)
 
